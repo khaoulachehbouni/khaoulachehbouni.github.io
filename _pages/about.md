@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD Student in Computer Science at McGill University and Mila under [Professor Golnoosh Farnadi](https://gfarnadi.github.io/). I previously did a Masters in Business Intelligence at HEC Montréal under the co-supervision of [Professor Golnoosh Farnadi](https://gfarnadi.github.io/) and [Professor Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html). 
+I am a first-year PhD Student in Computer Science at McGill University and Mila under [Professor Golnoosh Farnadi](https://gfarnadi.github.io/). I previously did a Masters in Business Intelligence at HEC Montréal under the co-supervision of [Professor Golnoosh Farnadi](https://gfarnadi.github.io/) and [Professor Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html). 
 I work on fairness and privacy in machine learning and natural language processing. I am also interested in the broader field of trustworthy machine learning and working with low-resource languages.
 
 
@@ -21,7 +21,8 @@ News!
 * _[June 2023]_ I gave a six-hour class about Bias and Fairness in Machine Learning to Statistics Canada employees. 
 * _[Jan 2023]_ I've started a research internship at Mila under the supervision of Professor Golnoosh Farnadi.
 * _[Dec 2022]_ I attended NeurIPS in New Orleans to present our work "Early Detection of Sexual Predators with Federated Learning" at the International Workshop on Federated Learning and the Women in Machine Learning Workshop.
-* _[Oct 2022]_ Our white paper "AI & Cities: Risks, Applications and Governance" was presented at the Urban Economy Forum.
+* _[Oct 2022]_ Our white paper "Early Detection of Sexual Predators with Federated Learning" was accepted at the International Workshop on Federated Learning at NeurIPS.
+* _[Oct 2022]_ Our paper "AI & Cities: Risks, Applications and Governance" was presented at the Urban Economy Forum.
 * _[Sep 2022]_ My thesis "Mitigating Online Grooming with Federated Learning" won the Best Thesis Award at HEC Montréal for the year 2022.
 * _[Sep 2022]_ I presented our work "Mitigating Online Grooming with Federated Learning" at the Montreal AI Symposium. 
 * _[Sep 2022]_ I've started working as a Data Scientist in the Methods, Quality, and Research section in Statistics Canada.
