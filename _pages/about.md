@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a first year PhD Student in Computer Science at McGill University and Mila under [Professor Golnoosh Farnadi](https://gfarnadi.github.io/). I previously did a Masters in Business Intelligence at HEC Montréal under the co-supervision of [Professor Golnoosh Farnadi](https://gfarnadi.github.io/) and [Professor Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html). 
-I work on fairness and privacy issues in machine learning and natural language processing. I am also interested in the broader field of trustworthy machine learning and working with low-resource languages.
+I work on fairness and privacy in machine learning and natural language processing. I am also interested in the broader field of trustworthy machine learning and working with low-resource languages.
 
 
 
