@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student at McGill University and Mila. I work on fairness and privacy in large language models."
   location         : "Montréal, Canada"
-  employer         :
+  LinkedIn         : "https://www.linkedin.com/in/khaoulachehbouni/?originalSubdomain=ca"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=dHThNZgAAAAJ"
   email            : "khaoula.chehbouni@mila.quebec"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,7 +101,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/khaoulachehbouni/?originalSubdomain=ca"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
