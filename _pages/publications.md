@@ -1,16 +1,56 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
-{% include base_path %}
+Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=dHThNZgAAAAJ) for latest updates.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+<h1> Published </h1>
+
+
+* **Early Detection of Sexual Predators with Federated Learning**  
+Chehbouni Khaoula, Caporossi Gilles, Rabbany Reihaneh, De Cock Martine, Farnadi Golnoosh 
+_Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022)_  
+[\[paper\]](https://openreview.net/pdf?id=M84OnT0ZvDq)
+
+
+* **AI and Cities: Risks, Applications and Governance**  
+UN-Habitat and Mila
+_4th Urban Economy Forum Conference 2022_ 
+[\[paper\]](https://unhabitat.org/ai-cities-risks-applications-and-governance)
+
+
+<h1> Submitted </h1>
+
+* **Unmasking Predators: Safeguarding Vulnerable  Moroccan Communities Post-Earthquake**  
+Taïk*, Afaf, Chehbouni*, K., Jain*, Kanishk, Akinfaderin Wale, Bouzoubaa Karim, Farnadi Golnoosh, Tazi Nouamane
+_North Africans in Machine Learning at NeurIPS 2023_  
+
+
+* **Leveraging AI for Natural Disaster Management: Takeaways From The Moroccan Earthquake**  
+Lena Nehale Ezzine, Bengio Yoshua, Atanane Ayoub et al.
+_6th Workshop on Artificial Intelligence for Humanitarian Assistance and Disaster Response at NeurIPS 2023_  
+
+
+<h1> Forthcoming </h1>
+
+* **The Impact of Sparsity on Fairness and Privacy in BERT**  
+Chehbouni Khaoula, Maratkhan Anuar, De Cock Martine, Farnadi Golnoosh
+
+* **Enhancing Privacy in Early Detection of Online Grooming Through Federated Learning and Differential Privacy**  
+Chehbouni Khaoula, De Cock Martine, Caporossi Gilles, Rabbany Reihaneh, Farnadi Golnoosh
+
+* **Systematic Hazard Taxonomy Along the AI Lifecycle**  
+Chehbouni Khaoula, et al.
+
+* **The Effect of the Typicality of Song Lyrics on Song Popularity: A Natural Language Processing Analysis of the British Top Singles Chart**  
+Chehbouni* Khaoula, Carichon* Florian, Simonnot-Lanciaux* Adrien, Caporossi Gilles, Dantas Danilo C. 
+
+
+
