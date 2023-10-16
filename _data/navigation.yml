@@ -6,8 +6,8 @@ main:
   - title: "News Articles"
     url: /articles/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -19,5 +19,5 @@ main:
   - title: "CV"
     url: /cv.pdf/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Contact"
+    url: /contact/
