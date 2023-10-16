@@ -9,7 +9,8 @@ author_profile: true
 
 <h1> Science Popularization </h1>
 * **[Artificial intelligence to...Find sexual predators on social networks](https://ivado.ca/en/research-projects/find-sexual-predators-on-social-networks/)**
-_Khaoula Chehbouni_  
+Khaoula Chehbouni  
+_Ivado_
 The statistics are alarming: the pandemic has had disastrous repercussions on children’s safety online. Young people are more connected and accessible than ever, making them easy targets for online sexual predators. Detecting the “grooming” of children online has thus become essential for protecting them.
 
 <h1> Data Journalism </h1>
