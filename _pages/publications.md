@@ -46,7 +46,7 @@ Chehbouni Khaoula, Maratkhan Anuar, De Cock Martine, Farnadi Golnoosh
 Chehbouni Khaoula, De Cock Martine, Caporossi Gilles, Rabbany Reihaneh, Farnadi Golnoosh
 
 
-**Systematic Hazard Taxonomy Along the AI Lifecycle** <br>  
+**Systematic Hazard Taxonomy Along the AI Lifecycle** 
 Chehbouni Khaoula, et al.
 
 
