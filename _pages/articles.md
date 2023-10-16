@@ -7,7 +7,6 @@ author_profile: true
 
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
-Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=dHThNZgAAAAJ) for latest updates.
 
 
 
@@ -16,7 +15,7 @@ Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user
 * **Une pandémie et des mots**  
 Aplatir la courbe, déconfinement, complotisme, ça va bien aller. Les dizaines d’heures de points de presse de François Legault, Horacio Arruda, Christian Dubé et Danielle McCann auront, pour le meilleur ou pour le pire, enrichi notre vocabulaire. La Presse vous propose une analyse lexicale des 794 transcriptions issues des points de presse tenus à l’Assemblée nationale entre janvier 2020 et le début de septembre, dont 116 du premier ministre.
 
-[\[News Article\]]([https://openreview.net/pdf?id=M84OnT0ZvDq](https://www.lapresse.ca/actualites/covid-19/2021-10-04/une-pandemie-et-des-mots.php))
+[\[News Article\]](https://www.lapresse.ca/actualites/covid-19/2021-10-04/une-pandemie-et-des-mots.php)
 
 
 * **AI and Cities: Risks, Applications and Governance**  
