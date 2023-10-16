@@ -46,11 +46,11 @@ Chehbouni Khaoula, Maratkhan Anuar, De Cock Martine, Farnadi Golnoosh
 Chehbouni Khaoula, De Cock Martine, Caporossi Gilles, Rabbany Reihaneh, Farnadi Golnoosh
 
 
-**Systematic Hazard Taxonomy Along the AI Lifecycle** 
+**Systematic Hazard Taxonomy Along the AI Lifecycle**  <br>
 Chehbouni Khaoula, et al.
 
 
-**The Effect of the Typicality of Song Lyrics on Song Popularity: A Natural Language Processing Analysis of the British Top Singles Chart**  <br>
+**The Effect of the Typicality of Song Lyrics on Song Popularity: A NLP Analysis of the British Top Singles Chart**  <br>
 Chehbouni* Khaoula, Carichon* Florian, Simonnot-Lanciaux* Adrien, Caporossi Gilles, Dantas Danilo C. 
 
 
