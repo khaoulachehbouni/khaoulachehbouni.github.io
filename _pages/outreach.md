@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /articles/
+permalink: /outreach/
 author_profile: true
 ---
 
