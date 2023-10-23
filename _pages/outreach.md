@@ -11,6 +11,7 @@ author_profile: true
 
 <li> I reviewed paper for the <a href="https://www.afciworkshop.org/"> AFT Workshop</a> at NeurIPS 2023.</li>
 <li> I reviewed paper for the <a href="https://solar-neurips.github.io/"> SOLAR Workshop</a> at Neurips 2023.</li>
+<br>
 
 <h1> Science Popularization </h1>
 
@@ -19,9 +20,9 @@ Khaoula Chehbouni<br>
 _Ivado_<br>
 The statistics are alarming: the pandemic has had disastrous repercussions on children’s safety online. Young people are more connected and accessible than ever, making them easy targets for online sexual predators. Detecting the “grooming” of children online has thus become essential for protecting them.
 
-**[Khaoula Chehbouni - Détecter le grooming grâce à l’apprentissage fédéré](https://www.youtube.com/watch?v=MaxJ7AWgdbk&list=PLnI094tgrXpxIQ_p9IGpb-ukUUNK6x9A2&index=4&t=3s&ab_channel=IVADO)** <be>
+**[Khaoula Chehbouni - Détecter le grooming grâce à l’apprentissage fédéré](https://www.youtube.com/watch?v=MaxJ7AWgdbk&list=PLnI094tgrXpxIQ_p9IGpb-ukUUNK6x9A2&index=4&t=3s&ab_channel=IVADO)** <br>
 _Ivado Digital October 2021_<br>
-As part of Ivado's Digital October, I presented my research project in 180 seconds in front of the IVADO community. 
+As part of Ivado's Digital October, I presented my research project in 180 seconds in front of the IVADO community. <br>
 
 <h1> Data Journalism </h1>
 
