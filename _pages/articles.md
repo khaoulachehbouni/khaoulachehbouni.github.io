@@ -8,8 +8,9 @@ author_profile: true
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
 <h1> Volunteering </h1>
-** I reviewed paper for the [AFT Workshop](https://www.afciworkshop.org/) at NeurIPS 2023.
-** I reviewed paper for the [SOLAR Workshop](https://solar-neurips.github.io/) at Neurips 2023. 
+
+<li> I reviewed paper for the [AFT Workshop](https://www.afciworkshop.org/) at NeurIPS 2023.</li>
+<li> I reviewed paper for the [SOLAR Workshop](https://solar-neurips.github.io/) at Neurips 2023.</li>
 
 <h1> Science Popularization </h1>
 
