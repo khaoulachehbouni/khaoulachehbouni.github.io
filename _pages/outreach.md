@@ -9,8 +9,8 @@ author_profile: true
 
 <h1> Volunteering </h1>
 
-<li> I reviewed paper for the [AFT Workshop](https://www.afciworkshop.org/) at NeurIPS 2023.</li>
-<li> I reviewed paper for the [SOLAR Workshop](https://solar-neurips.github.io/) at Neurips 2023.</li>
+<li> I reviewed paper for the <a href="https://www.afciworkshop.org/"> AFT Workshop</a> at NeurIPS 2023.</li>
+<li> I reviewed paper for the <a href="https://solar-neurips.github.io/"> SOLAR Workshop</a> at Neurips 2023.</li>
 
 <h1> Science Popularization </h1>
 
