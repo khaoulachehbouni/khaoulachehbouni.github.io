@@ -11,7 +11,7 @@ author_profile: true
 
 <li> I reviewed paper for the <a href="https://www.afciworkshop.org/"> AFT Workshop</a> at NeurIPS 2023.</li>
 <li> I reviewed paper for the <a href="https://solar-neurips.github.io/"> SOLAR Workshop</a> at Neurips 2023.</li>
-<br>
+
 
 <h1> Science Popularization </h1>
 
