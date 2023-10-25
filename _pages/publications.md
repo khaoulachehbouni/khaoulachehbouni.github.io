@@ -23,13 +23,9 @@ UN-Habitat and Mila<br>
 _4th Urban Economy Forum Conference 2022_ 
 [\[paper\]](https://unhabitat.org/ai-cities-risks-applications-and-governance)
 
-
-<h1> Submitted </h1>
-
 **Unmasking Predators: Safeguarding Vulnerable  Moroccan Communities Post-Earthquake**  <br>
 Taïk*, Afaf, Chehbouni*, K., Jain*, Kanishk, Akinfaderin Wale, Bouzoubaa Karim, Farnadi Golnoosh, Tazi Nouamane <br>
 _North Africans in Machine Learning at NeurIPS 2023_  
-
 
 **Leveraging AI for Natural Disaster Management: Takeaways From The Moroccan Earthquake**  <br>
 Lena Nehale Ezzine, Bengio Yoshua, Atanane Ayoub et al.<br>
