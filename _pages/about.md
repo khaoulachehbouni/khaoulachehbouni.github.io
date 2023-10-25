@@ -15,6 +15,8 @@ I work on fairness and privacy in machine learning and natural language processi
 
 News!
 ------
+* _[Oct 2023]_ Our survey paper **"Leveraging AI for Natural Disaster Management: Takeaways From The Moroccan Earthquake"**  was accepted for a poster presentation in the [Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop](https://www.hadr.ai/).
+* _[Oct 2023]_ Our project **"Unmasking Predators: Safeguarding Vulnerable Moroccan Communities Post-Earthquake"**  was accepted for a poster presentation in the [North Africans in Machine Learning Workshop](https://sites.google.com/view/northafricansinml).
 * _[Sep 2023]_ Our project **"Unmasking Predators: Safeguarding Vulnerable Moroccan Communities Post-Earthquake"**  won the [Morocco Solidarity Hackathon](https://morocco-solidarity-hackathon.io/).
 * _[Sep 2023]_ I've started my PhD at [McGill University](https://www.mcgill.ca/) and [Mila](https://mila.quebec/en/) under the supervision of Professor Golnoosh Farnadi.
 * _[June 2023]_ I was interviewed by [HEC Mag](https://mag.hec.ca/) about my Master's thesis on the detection of sexual predators. 
