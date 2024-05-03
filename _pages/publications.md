@@ -40,7 +40,7 @@ _6th Workshop on Artificial Intelligence for Humanitarian Assistance and Disaste
 <h1> Forthcoming </h1>
 
 **Enhancing Privacy in Early Detection of Online Grooming Through Federated Learning and Differential Privacy**  <br>
-Chehbouni Khaoula, De Cock Martine, Caporossi Gilles, Rabbany Reihaneh, Farnadi Golnoosh
+Chehbouni Khaoula, De Cock Martine, Caporossi Gilles, Rabbany Reihaneh, Farnadi Golnoosh<br>
 _Submitted to the fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'24)_ 
 
 **Systematic Hazard Taxonomy Along the AI Lifecycle**  <br>
