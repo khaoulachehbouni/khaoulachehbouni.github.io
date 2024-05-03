@@ -15,11 +15,18 @@ I work on fairness and privacy in machine learning and natural language processi
 
 News!
 ------
+
+* _[May 2024]_ I started a new position as a **senior research scientist** at Statistics Canada in their research department to work on fairness and privacy issues in large language models.
+* _[May 2024]_ I was awarded the prestigious **FRQNT Doctoral Training Scholarship**. It's an annual scholarship of $25000 per year for 4 years (for a total of 100000$).
+* _[April 2024]_ I was awarded one of **Mila's Excellence scholarships** for the category EDI in Research, PhD level. It's an annual scholarship of $8000 per year for 3 years (for a total of 24000$).
+*  _[April 2024]_ Dr. Afaf Taïk and I gave a talk at the[Google's Women Techmaker event](https://wtmmontreal.com/speakers/) called: "Towards Inclusive AI: Understanding bias in machine learning models".
+*  _[Feb 2024]_ I was an expert in a roundtable organized by Mila AI for Humanity about the capabilities, limitations and risks of GPAIS - from a technical perspective.
+*  _[Dec 2023]_ I went to NeurIPS 2023 to present our work in the North Africans in Machine Learning Workshop](https://sites.google.com/view/northafricansinml) and I was also a student volunteer during the conference!
 * _[Oct 2023]_ Our survey paper **"Leveraging AI for Natural Disaster Management: Takeaways From The Moroccan Earthquake"**  was accepted for a poster presentation in the [Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop](https://www.hadr.ai/).
 * _[Oct 2023]_ Our project **"Unmasking Predators: Safeguarding Vulnerable Moroccan Communities Post-Earthquake"**  was accepted for a poster presentation in the [North Africans in Machine Learning Workshop](https://sites.google.com/view/northafricansinml).
 * _[Sep 2023]_ Our project **"Unmasking Predators: Safeguarding Vulnerable Moroccan Communities Post-Earthquake"**  won the [Morocco Solidarity Hackathon](https://morocco-solidarity-hackathon.io/).
 * _[Sep 2023]_ I've started my PhD at [McGill University](https://www.mcgill.ca/) and [Mila](https://mila.quebec/en/) under the supervision of Professor Golnoosh Farnadi.
-* _[June 2023]_ I was interviewed by [HEC Mag](https://mag.hec.ca/) about my Master's thesis on the detection of sexual predators. 
+* _[June 2023]_ I was interviewed by [HEC Mag]([https://mag.hec.ca/](https://mag.hec.ca/khaoula-chehbouni-demasquer-les-predateurs-sexuels)) about my Master's thesis on the detection of sexual predators. 
 * _[June 2023]_ I gave a six-hour class about Bias and Fairness in Machine Learning to [Statistics Canada](https://www.statcan.gc.ca/en/start) employees.
 * _[Jan 2023]_ I've started a research internship at [Mila](https://mila.quebec/en/) under the supervision of Professor Golnoosh Farnadi.
 * _[Dec 2022]_ I attended NeurIPS in New Orleans to present our work **"Early Detection of Sexual Predators with Federated Learning"** at the [International Workshop on Federated Learning](https://federated-learning.org/fl-neurips-2022/) and the [Women in Machine Learning Workshop](https://sites.google.com/view/wiml2022/).
