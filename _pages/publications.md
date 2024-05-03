@@ -7,11 +7,16 @@ author_profile: true
 
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
-Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=dHThNZgAAAAJ) for latest updates.
+Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=dHThNZgAAAAJ) for the latest updates.
 
 
 
 <h1> Published </h1>
+
+**From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards**  <br>
+Chehbouni Khaoula, Roshan Megha, Ma Emmanuel, Andrew Wei Futian, Taik Afaf, Cheung Jackie CK, Farnadi Golnoosh<br>
+_Preprint prepared for conference submission_  
+[\[paper\]](https://arxiv.org/abs/2403.13213)
 
 **Early Detection of Sexual Predators with Federated Learning**  <br>
 Chehbouni Khaoula, Caporossi Gilles, Rabbany Reihaneh, De Cock Martine, Farnadi Golnoosh <br>
@@ -34,20 +39,17 @@ _6th Workshop on Artificial Intelligence for Humanitarian Assistance and Disaste
 
 <h1> Forthcoming </h1>
 
-**The Impact of Sparsity on Fairness and Privacy in BERT**  <br>
-Chehbouni Khaoula, Maratkhan Anuar, De Cock Martine, Farnadi Golnoosh
-
-
 **Enhancing Privacy in Early Detection of Online Grooming Through Federated Learning and Differential Privacy**  <br>
 Chehbouni Khaoula, De Cock Martine, Caporossi Gilles, Rabbany Reihaneh, Farnadi Golnoosh
-
+_Submitted to the fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'24)_ 
 
 **Systematic Hazard Taxonomy Along the AI Lifecycle**  <br>
 Chehbouni Khaoula, et al.
 
+**Auditing the Helpful and Harmless Dataset**  <br>
+Chehbouni Khaoula and Jonathan Colaço Carr
 
-**The Effect of the Typicality of Song Lyrics on Song Popularity: A NLP Analysis of the British Top Singles Chart**  <br>
-Chehbouni* Khaoula, Carichon* Florian, Simonnot-Lanciaux* Adrien, Caporossi Gilles, Dantas Danilo C. 
-
+**The Impact of Sparsity on Fairness and Privacy in BERT**  <br>
+Chehbouni Khaoula, Maratkhan Anuar, De Cock Martine, Farnadi Golnoosh
 
 
