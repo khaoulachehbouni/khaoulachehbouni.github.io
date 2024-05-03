@@ -8,9 +8,11 @@ author_profile: true
 <!-- When adding new publications, leave two spaces at the end of every line to go to the next line! -->
 
 <h1> Volunteering </h1>
-
-<li> I reviewed paper for the <a href="https://www.afciworkshop.org/"> AFT Workshop</a> at NeurIPS 2023.</li>
-<li> I reviewed paper for the <a href="https://solar-neurips.github.io/"> SOLAR Workshop</a> at Neurips 2023.</li>
+<li> I organize the FATE (fairness, accountability, transparency and ethics) reading group at Mila.</li> 
+<li> I am a mentor for <a href="https://www.technovationmontreal.com/"> Technovation Montreal</a>: I help high-school girls develop a technological project from start to finish. </li> 
+<li> I reviewed papers for the <a href="https://sites.google.com/view/cvpr-responsible-genai"> Responsible Generative AI Workshop</a> at CVPR 2024.</li> 
+<li> I reviewed papers for the <a href="https://www.afciworkshop.org/"> AFT Workshop</a> at NeurIPS 2023.</li>
+<li> I reviewed papers for the <a href="https://solar-neurips.github.io/"> SOLAR Workshop</a> at Neurips 2023.</li>
 
 
 <h1> Science Popularization </h1>
