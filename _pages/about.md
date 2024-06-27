@@ -17,8 +17,8 @@ News!
 ------
 
 * _[May 2024]_ I started a new position as a **senior research scientist** at Statistics Canada in their research department to work on fairness and privacy issues in large language models.
-* _[May 2024]_ I was awarded the prestigious **FRQNT Doctoral Training Scholarship**. It's an annual scholarship of \$25000 per year for 4 years (for a total of \$100000).
-* _[April 2024]_ I was awarded one of **Mila's Excellence scholarships** for the category EDI in Research, PhD level. It's an annual scholarship of \$8000 per year for 3 years (for a total of \$24000).
+* _[May 2024]_ I was awarded the prestigious **FRQNT Doctoral Training Scholarship**. It's an annual scholarship of \\$25000 per year for 4 years (for a total of \\$100000).
+* _[April 2024]_ I was awarded one of **Mila's Excellence scholarships** for the category EDI in Research, PhD level. It's an annual scholarship of \\$8000 per year for 3 years (for a total of \\$24000).
 *  _[April 2024]_ Dr. Afaf Taïk and I gave a talk at the [Google's Women Techmaker event](https://wtmmontreal.com/speakers/) called: "Towards Inclusive AI: Understanding bias in machine learning models".
 *  _[Feb 2024]_ I was an **expert in a roundtable** organized by Mila AI for Humanity about the capabilities, limitations, and risks of GPAIS - from a technical perspective.
 *  _[Dec 2023]_ I went to NeurIPS 2023 to present our work in the [North Africans in Machine Learning Workshop](https://sites.google.com/view/northafricansinml) and I was also a student volunteer during the conference!
