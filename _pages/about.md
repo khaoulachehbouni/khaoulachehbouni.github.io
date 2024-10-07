@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD Student in Computer Science at McGill University and Mila under [Professor Golnoosh Farnadi](https://gfarnadi.github.io/). I previously did a Masters in Business Intelligence at HEC Montréal under the co-supervision of [Professor Golnoosh Farnadi](https://gfarnadi.github.io/) and [Professor Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html). 
+I am a second-year PhD Student in Computer Science at McGill University and Mila under [Professor Golnoosh Farnadi](https://gfarnadi.github.io/) and [Professor Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). I previously did a Masters in Business Intelligence at HEC Montréal under the co-supervision of [Professor Golnoosh Farnadi](https://gfarnadi.github.io/) and [Professor Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html). 
 I work on fairness and privacy in machine learning and natural language processing. I am also interested in the broader field of trustworthy machine learning and working with low-resource languages.
 
 
@@ -15,8 +15,13 @@ I work on fairness and privacy in machine learning and natural language processi
 
 News!
 ------
-
+*  _[August 2024]_ I successfully passed my PhD Comprehensive Exam.
+*  _[August 2024]_ I gave a talk at the AI Policy Compass Event organized by Mila in Montreal called: "Biais et Équité en Intelligence Artificielle".
+*  _[August 2024]_ I attended ACL 2024 in Bangkok and presented our work [**"From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards"**](https://aclanthology.org/2024.findings-acl.927/) during a poster session. 
+*  _[June 2024]_ I gave a talk at the [Congrès de la Société de philosophie du Québec](https://frq.gouv.qc.ca/evenement/chatgpt-et-lethique-reflexions-autour-des-grands-modeles-de-langage-llm-et-autres-algorithmes-de-generation/) called: "Mitigation des risques liés aux Grands Modèles de Langage".
+*  _[May 2024]_ Our paper [**"From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards"**](https://aclanthology.org/2024.findings-acl.927/) was accepted for a poster presentation in the Findings of ACL 2024. 
 * _[May 2024]_ I started a new position as a **senior research scientist** at Statistics Canada in their research department to work on fairness and privacy issues in large language models.
+* _[May 2024]_ I won the 3 minute thesis competition at the Responsible AI Track at the Canadian AI Conference at Guelph. 
 * _[May 2024]_ I was awarded the prestigious **FRQNT Doctoral Training Scholarship**. It's an annual scholarship of \\$25000 per year for 4 years (for a total of \\$100000).
 * _[April 2024]_ I was awarded one of **Mila's Excellence scholarships** for the category EDI in Research, PhD level. It's an annual scholarship of \\$8000 per year for 3 years (for a total of \\$24000).
 *  _[April 2024]_ Dr. Afaf Taïk and I gave a talk at the [Google's Women Techmaker event](https://wtmmontreal.com/speakers/) called: "Towards Inclusive AI: Understanding bias in machine learning models".
