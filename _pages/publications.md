@@ -15,8 +15,8 @@ Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user
 
 **From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards**  <br>
 Chehbouni Khaoula, Roshan Megha, Ma Emmanuel, Andrew Wei Futian, Taik Afaf, Cheung Jackie CK, Farnadi Golnoosh<br>
-_Preprint prepared for conference submission_  
-[\[paper\]](https://arxiv.org/abs/2403.13213)
+_Findings of the Association for Computational Linguistics ACL 2024_  
+[\[paper\]](https://aclanthology.org/2024.findings-acl.927/)
 
 **Early Detection of Sexual Predators with Federated Learning**  <br>
 Chehbouni Khaoula, Caporossi Gilles, Rabbany Reihaneh, De Cock Martine, Farnadi Golnoosh <br>
@@ -41,15 +41,11 @@ _6th Workshop on Artificial Intelligence for Humanitarian Assistance and Disaste
 
 **Enhancing Privacy in Early Detection of Online Grooming Through Federated Learning and Differential Privacy**  <br>
 Chehbouni Khaoula, De Cock Martine, Caporossi Gilles, Rabbany Reihaneh, Farnadi Golnoosh<br>
-_Submitted to the fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'24)_ 
 
 **Systematic Hazard Taxonomy Along the AI Lifecycle**  <br>
 Chehbouni Khaoula, et al.
 
 **Auditing the Helpful and Harmless Dataset**  <br>
-Chehbouni Khaoula and Jonathan Colaço Carr
-
-**The Impact of Sparsity on Fairness and Privacy in BERT**  <br>
-Chehbouni Khaoula, Maratkhan Anuar, De Cock Martine, Farnadi Golnoosh
+Chehbouni* Khaoula and Colaço Carr* Jonathan, More Yash, Cheung CK Jackie, Farnadi Golnoosh 
 
 
