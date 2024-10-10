@@ -16,7 +16,7 @@ I work on fairness and privacy in machine learning and natural language processi
 News!
 ------
 *  _[October 2024]_ Our paper **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted to the NeurIPS Workshop [Algorithmic Fairness through the Lens of Metrics and Evaluation](https://www.afciworkshop.org/).
-*  _[October 2024]_ Our work **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted to the Women in Machine Learning Workshop at NeurIPS 2024 and I was awarded 700$USD to attend the conference.
+*  _[October 2024]_ Our work **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted to the [Women in Machine Learning Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation?authuser=0) at NeurIPS 2024 and I was awarded 700$USD to attend the conference.
 *  _[August 2024]_ I successfully passed my PhD Comprehensive Exam.
 *  _[August 2024]_ I gave a talk at the AI Policy Compass Event organized by Mila in Montreal called: "Biais et Équité en Intelligence Artificielle".
 *  _[August 2024]_ I attended ACL 2024 in Bangkok and presented our work [**"From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards"**](https://aclanthology.org/2024.findings-acl.927/) during a poster session. 
