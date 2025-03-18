@@ -15,8 +15,16 @@ I work on fairness and privacy in machine learning and natural language processi
 
 News!
 ------
-*  _[October 2024]_ Our paper **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted to the NeurIPS Workshop [Algorithmic Fairness through the Lens of Metrics and Evaluation](https://www.afciworkshop.org/).
-*  _[October 2024]_ Our work **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted to the [Women in Machine Learning Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation?authuser=0) at NeurIPS 2024 and I was awarded 700$USD to attend the conference.
+*  _[January 2025]_ Our paper **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted to the Main Conference at [NAACL](https://2025.naacl.org/) as an Oral.
+*  _[January 2025]_ I was invite as a Panelist by the **World Salon** for an event in cooperation with **KIIT University and Columbia University**.
+*  _[December 2024]_ Our paper **"Enhancing Privacy in the Early Detection of Sexual Predators Through Federated Learning and Differential Privacy."** was accepted to the [AAAI Conference - Social Impact Track](https://aaai.org/conference/aaai/aaai-25/aisi-call/) as an Oral.
+*   _[December 2024]_ I completed an **AI Policy Certificate with distinctions** from the Center for AI and Digital Policy.
+*   _[November 2024]_ I was invited as a Panelist at the **McGill Technology and Ethics Roundtables**.
+*   _[October 2024]_ I was invited in the **World We Are Building Podcast** to talk about my research: [Khaoula Chehbouni: Rethinking AI Safety, Hidden Hierarchies in AI Development and Who Gets to Decide What Makes AI Research Worthy of Publication](https://open.spotify.com/episode/3lBNgVduAaLujMpGQQeEOb).
+*   [October 2024]_ I was invited in the **Activists of Tech --- The Responsible Tech Podcast** to talk about my research and experience in academia: [How Existing Safety Mitigation Safeguards Fail in LLMs](https://open.spotify.com/episode/2JstMyarNsxViuj9buux63).
+*  _[October 2024]_ Our paper **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted in the NeurIPS Workshop [Algorithmic Fairness through the Lens of Metrics and Evaluation](https://www.afciworkshop.org/) for a Poster and in the [Women in Machine Learning Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation?authuser=0) for an Oral.
+*  _[October 2024]_ I was awarded $700USD by Women in Machine Learning and I received $650CA through McGill University's GREAT Award to attend the NeurIPS Conference.
+*  _[September 2024]_ I received the Lorne Trottier Fellowship and was awarded $5000 by McGill University. 
 *  _[August 2024]_ I successfully passed my PhD Comprehensive Exam.
 *  _[August 2024]_ I gave a talk at the AI Policy Compass Event organized by Mila in Montreal called: "Biais et Équité en Intelligence Artificielle".
 *  _[August 2024]_ I attended ACL 2024 in Bangkok and presented our work [**"From Representational Harms to Quality-of-Service Harms: A Case Study on Llama 2 Safety Safeguards"**](https://aclanthology.org/2024.findings-acl.927/) during a poster session. 
