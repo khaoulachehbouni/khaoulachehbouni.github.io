@@ -16,7 +16,7 @@ I work on fairness and privacy in machine learning and natural language processi
 News!
 ------
 *  _[January 2025]_ Our paper **"Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset."** was accepted to the Main Conference at [NAACL](https://2025.naacl.org/) as an Oral.
-*  _[January 2025]_ I was invite as a Panelist by the **World Salon** for an event in cooperation with **KIIT University and Columbia University**.
+*  _[January 2025]_ I was invited as a Panelist by the **World Salon** for an event in cooperation with **KIIT University and Columbia University**.
 *  _[December 2024]_ Our paper **"Enhancing Privacy in the Early Detection of Sexual Predators Through Federated Learning and Differential Privacy."** was accepted to the [AAAI Conference - Social Impact Track](https://aaai.org/conference/aaai/aaai-25/aisi-call/) as an Oral.
 *   _[December 2024]_ I completed an **AI Policy Certificate with distinctions** from the Center for AI and Digital Policy.
 *   _[November 2024]_ I was invited as a Panelist at the **McGill Technology and Ethics Roundtables**.
