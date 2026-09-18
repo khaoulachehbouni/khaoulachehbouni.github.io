@@ -11,6 +11,13 @@ I am a fourth-year PhD Student in Computer Science at McGill University and Mila
 I work on how to better evaluate large language models for their societal impacts and capabilities. 
 
 
+News!
+------
+
+*  _[September 2026]_ I gave a talk at Mila for the AI Policy Compass Program on **Bias and Fairness in AI**.
+*  _[August 2026]_ I completed my internship at MSR and moved back to Montreal!
+*  _[July 2026]_ I attended ACL 2026 to present my research proposal **Rethinking Safety Evaluation in Large Language Models** in the Student Research Workshop. I also volunteered at the conference.
+*  _[June 2026]_ I moved to New York City to work as a research intern for the **Sociotechnical Alignment Center at Microsoft Research** over the summer. 
 
 
   
